@@ -1,2 +1,4 @@
 # spot-welder
-spot welder controller for Warsaw Hackerspace
+Spot welder controller for Warsaw Hackerspace
+
+Based on http://www.avdweb.nl/arduino/hardware-interfacing/spot-welder-controller.html
